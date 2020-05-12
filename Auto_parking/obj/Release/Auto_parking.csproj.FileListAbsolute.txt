@@ -1,0 +1,4 @@
+C:\Users\DuongSang\Desktop\Demo nhung van de moi\Auto_parking\obj\Release\Auto_parking.Form1.resources
+C:\Users\DuongSang\Desktop\Demo nhung van de moi\Auto_parking\obj\Release\Auto_parking.MainForm.resources
+C:\Users\DuongSang\Desktop\Demo nhung van de moi\Auto_parking\obj\Release\Auto_parking.Properties.Resources.resources
+C:\Users\DuongSang\Desktop\Demo nhung van de moi\Auto_parking\obj\Release\Auto_parking.csproj.GenerateResource.Cache
